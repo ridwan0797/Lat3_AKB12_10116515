@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">RidApps</string>
+    <string name="title_activity_but_nav">but_nav</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="daily_activity">Daily Activity</string>
+    <string name="gallery">Gallery</string>
+    <string name="music">Music</string>
+    <string name="profile">Profile</string>
+    <string name="title_here">Title Here</string>
+    <string name="description_is_here">Description is Here</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="start">START</string>
+    <string name="skip">SKIP</string>
+
+    <string name="slide_1_title">Landed</string>
+    <string name="slide_1_desc">Welcome to Myapps, Youve Landed in MyWorld, Lets Explore it! </string>
+
+    <string name="slide_2_title">Find Something Great!</string>
+    <string name="slide_2_desc">Explore the Apps and Find many things about me.</string>
+
+    <string name="slide_3_title">One More Step</string>
+    <string name="slide_3_desc">Select The Start Button to Start Explore.</string>
+
+    <string name="slide_4_title">Menu Slider</string>
+    <string name="slide_4_desc">Pengguna dapat membuka halaman lain dengan hanya menggesernya tanpa harus keluar dari halaman terpilih.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="r">r.</string>
+    <string name="pp">TODO</string>
+</resources>
